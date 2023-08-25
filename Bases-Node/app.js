@@ -3,6 +3,8 @@ const {crearArchivo} = require('./helpers/multiplicar');
 
 console.clear();
 
+console.log(process.argv)
+
 const base = 50;
 
 crearArchivo( base)

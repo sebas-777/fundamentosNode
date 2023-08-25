@@ -1,0 +1,25 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "es una simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas-777/fundamentosNode.git"
+  },
+  "author": "sebas-777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas-777/fundamentosNode/issues"
+  },
+  "homepage": "https://github.com/sebas-777/fundamentosNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
